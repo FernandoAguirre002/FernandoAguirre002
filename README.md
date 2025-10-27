@@ -24,7 +24,7 @@ I just started my journey this week, diving deep into Python and exploring mathe
 
 ## 📬 Connect with Me
 Feel free to follow my journey or reach out if you share similar interests!
-<!-- Add social links here if you want, e.g. LinkedIn, Twitter, etc. -->
+-https://www.linkedin.com/in/fernando-aguirre-maestri-a82722390?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXCUOHVrHSAOUuty8Bksisg%3D%3D<!-- Add social links here if you want, e.g. LinkedIn, Twitter, etc. -->
 
 ## ⚡ Fun Fact
 I started this journey just this week—I'm excited to see how far I can go!
